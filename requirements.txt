@@ -7,3 +7,5 @@ unstructured
 pypdf
 markdown
 wikipedia
+arxiv
+playwright
